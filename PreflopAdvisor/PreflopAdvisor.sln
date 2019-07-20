@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreflopAdvisor", "PreflopAdvisor\PreflopAdvisor.csproj", "{8FC9D8B9-9773-45E4-8239-0BCA225361CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FC9D8B9-9773-45E4-8239-0BCA225361CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FC9D8B9-9773-45E4-8239-0BCA225361CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FC9D8B9-9773-45E4-8239-0BCA225361CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FC9D8B9-9773-45E4-8239-0BCA225361CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D69E3BDA-7EE1-4C90-B2B7-9EA88B761862}
+	EndGlobalSection
+EndGlobal
